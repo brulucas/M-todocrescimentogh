@@ -1,0 +1,6 @@
+{
+  "name": "Método de Crescimento GH - Quizz Interativo & Diagnóstico",
+  "description": "Funil de Quizz Interativo de alta conversão para mães e pais avaliarem o potencial genético de crescimento e adquirirem o Método de Crescimento GH.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
